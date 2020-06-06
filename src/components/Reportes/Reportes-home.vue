@@ -48,14 +48,14 @@ export default {
         src: "/img/citamedica.png",
         title: "Reporte de Citas",
         description:
-          "Este módulo de reportes es de las citas de un paciente en un rango de fechas, tipo de terapia, estado de la cita y tipo de cita",
+          "Este módulo permite visualizar el reporte de citas de un paciente en un rango de fechas, tipo de terapia, estado de la cita y tipo de cita",
         componente: "ReporteCitas"
       },
       {
         color: "#546E7A",
         src: "/img/paciente.png",
         title: "Reporte de Pacientes",
-        description: "Este módulo de reportes es de pacientes",
+        description: "Este módulo permite visualizar el reporte de pacientes según el tipo de terapia a la que asistió, y ubicación geográfica (pais, departamento, municipio)",
         componente: "ReportePacientes"
       }
     ]
